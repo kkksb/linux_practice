@@ -14,3 +14,7 @@ Index of /Linux/packages/CentOS/7.9.2009/isos/x86_64 http://ftp-srv2.kddilabs.jp
 ### 小ネタ
 
 ホストの操作をするときはctrl+alt
+
+## Dockerでの構築
+
+検証用にDockerでbindを動かす - Qiita https://qiita.com/motani/items/12ff01ab8190b43b0d7e
