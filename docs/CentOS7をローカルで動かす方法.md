@@ -10,3 +10,7 @@ GUIなどを入れたいが、もうDocker Desktopのサポート外になって
 ### インストールしたもの
 
 Index of /Linux/packages/CentOS/7.9.2009/isos/x86_64 http://ftp-srv2.kddilabs.jp/Linux/packages/CentOS/7.9.2009/isos/x86_64/
+
+### 小ネタ
+
+ホストの操作をするときはctrl+alt
